@@ -58,7 +58,7 @@ class Land extends Component<Props, any> {
           <span className="land-footer-item land-footer-item-hover">忘记密码?</span>
         </div>
       </Form>
-    )
+    );
   }
 }
 
