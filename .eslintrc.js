@@ -4,8 +4,8 @@ module.exports = {
 		"es6": true
 	},
 	"extends": [
-		"google",
-		"eslint:recommended"
+		// "google",
+		// "eslint:recommended"
 	],
 	"globals": {
 		"Atomics": "readonly",
