@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "https://lightyears1998.github.io/paperstack-frontend/static/css/main.6128ed41.chunk.css",
+    "main.js": "https://lightyears1998.github.io/paperstack-frontend/static/js/main.e6d90e30.chunk.js",
+    "main.js.map": "https://lightyears1998.github.io/paperstack-frontend/static/js/main.e6d90e30.chunk.js.map",
+    "runtime-main.js": "https://lightyears1998.github.io/paperstack-frontend/static/js/runtime-main.cd2550ec.js",
+    "runtime-main.js.map": "https://lightyears1998.github.io/paperstack-frontend/static/js/runtime-main.cd2550ec.js.map",
+    "static/css/2.cc82b09a.chunk.css": "https://lightyears1998.github.io/paperstack-frontend/static/css/2.cc82b09a.chunk.css",
+    "static/js/2.7530d956.chunk.js": "https://lightyears1998.github.io/paperstack-frontend/static/js/2.7530d956.chunk.js",
+    "static/js/2.7530d956.chunk.js.map": "https://lightyears1998.github.io/paperstack-frontend/static/js/2.7530d956.chunk.js.map",
+    "index.html": "https://lightyears1998.github.io/paperstack-frontend/index.html",
+    "precache-manifest.7800404ebb1ee8b92b668c47ae556bd3.js": "https://lightyears1998.github.io/paperstack-frontend/precache-manifest.7800404ebb1ee8b92b668c47ae556bd3.js",
+    "service-worker.js": "https://lightyears1998.github.io/paperstack-frontend/service-worker.js",
+    "static/css/2.cc82b09a.chunk.css.map": "https://lightyears1998.github.io/paperstack-frontend/static/css/2.cc82b09a.chunk.css.map",
+    "static/css/main.6128ed41.chunk.css.map": "https://lightyears1998.github.io/paperstack-frontend/static/css/main.6128ed41.chunk.css.map",
+    "static/media/gzhu-logo.png": "https://lightyears1998.github.io/paperstack-frontend/static/media/gzhu-logo.8b24e9b7.png",
+    "static/media/style.less": "https://lightyears1998.github.io/paperstack-frontend/static/media/home-background.403819d6.jpg"
+  }
+}
