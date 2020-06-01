@@ -11,6 +11,7 @@ plugins:
   - import
 extends:
   - plugin:@typescript-eslint/recommended
+  - plugin:react/recommended
   - plugin:import/errors
   - plugin:import/warnings
   - plugin:import/typescript
@@ -25,6 +26,8 @@ rules:
   # NextJs does not require you to import React into each component.
   # so suppress errors for missing 'import React' in files.
   react/react-in-jsx-scope:
+    - off
+  react/prop-types: # We use TypeScript rather than React.propsType
     - off
   require-await:
     - error
